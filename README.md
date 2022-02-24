@@ -1,2 +1,2 @@
-# MA421
-Machine learning projects from Mathematics and Deep Learning. 
+# Logistic Regression (Binary Classification) 
+Machine learning project from Mathematics and Deep Learning Spring 2022
